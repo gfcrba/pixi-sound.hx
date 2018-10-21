@@ -1,0 +1,25 @@
+{
+	"name": "pixi-sound",
+	"license": "MIT",
+	"classPath": "src",
+	"tags": [
+		"js",
+		"haxe",
+		"pixi-sound",
+		"pixi-sound.js",
+        "pixijs",
+        "pixi.js",
+		"extern",
+		"web"
+	],
+	"description": "Externs of pixi-sound v2.0.3 for Haxe - WebAudio API playback library, with filters. Modern audio playback for modern browsers.",
+	"contributors": [
+		"gfcrba"
+	],
+	"releasenote": "Initial release",
+	"version": "2.0.3",
+	"url": "https://github.com/gfcrba/pixi-sound.hx",
+	"dependencies": {
+		"pixijs": "4.7.1"
+	}
+}
