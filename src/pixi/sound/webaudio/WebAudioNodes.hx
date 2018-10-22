@@ -82,7 +82,7 @@ extern class WebAudioNodes extends Filterable
      * Cleans up.
      * @method PIXI.sound.SoundNodes#destroy
      */
-    function destroy():Void;
+    override function destroy():Void;
 
     /**
      * Clones the bufferSource. Used just before playing a sound.

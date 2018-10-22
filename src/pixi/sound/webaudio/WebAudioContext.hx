@@ -146,7 +146,7 @@ extern class WebAudioContext extends Filterable implements IMediaContext
      * Destroy this context.
      * @method PIXI.sound.webaudio.WebAudioContext#destroy
      */
-    function destroy():Void;
+    override function destroy():Void;
 
     /**
      * The WebAudio API AudioContext object.
