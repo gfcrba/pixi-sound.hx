@@ -12,12 +12,12 @@
 		"extern",
 		"web"
 	],
-	"description": "Externs of pixi-sound v2.0.3 for Haxe - WebAudio API playback library, with filters. Modern audio playback for modern browsers.",
+	"description": "Externs of pixi-sound for Haxe - WebAudio API playback library, with filters. Modern audio playback for modern browsers.",
 	"contributors": [
 		"gfcrba"
 	],
 	"releasenote": "Initial release",
-	"version": "2.0.3",
+	"version": "2.0.4",
 	"url": "https://github.com/gfcrba/pixi-sound.hx",
 	"dependencies": {
 		"pixijs": "4.7.1"
