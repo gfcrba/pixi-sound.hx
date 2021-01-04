@@ -6,7 +6,7 @@ typedef ExtensionMap = Map<String, Bool>;
  * External Utility that was originally a part of the SoundUtils class 
  * in version 2.0.4. This class consists of helper functions and all audio
  * formats that are supported by Pixijs.
-**/
+ */
 @:native("PIXI.sound.utils.supported")
 extern class supported {
 	/**
