@@ -1,7 +1,7 @@
 package pixi.sound;
 
 import js.lib.ArrayBuffer;
-import js.lib.AudioElement;
+import js.html.AudioElement;
 import js.lib.Error;
 import js.lib.Promise;
 import pixi.sound.interfaces.IMediaInstance;
