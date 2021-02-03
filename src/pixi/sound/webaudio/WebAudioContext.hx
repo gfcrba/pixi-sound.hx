@@ -9,8 +9,8 @@ package pixi.sound.webaudio;
  * @memberof PIXI.sound.webaudio
  */
 
-import js.Error;
-import js.html.ArrayBuffer;
+import js.lib.Error;
+import js.lib.ArrayBuffer;
 import js.html.audio.AnalyserNode;
 import js.html.audio.AudioBuffer;
 import js.html.audio.AudioContext;

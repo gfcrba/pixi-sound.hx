@@ -1,6 +1,6 @@
 package pixi.sound;
 
-import js.Promise;
+import js.lib.Promise;
 import pixi.sound.interfaces.IMediaInstance;
 import haxe.extern.EitherType;
 import pixi.sound.filters.Filter;

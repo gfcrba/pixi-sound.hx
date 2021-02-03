@@ -17,7 +17,7 @@ import pixi.sound.interfaces.IMediaInstance;
 import pixi.sound.Sound;
 import pixi.sound.Sound.CompleteCallback;
 import haxe.extern.EitherType;
-import js.Promise;
+import js.lib.Promise;
 
 typedef SoundSpriteData = {
     var start:Int;

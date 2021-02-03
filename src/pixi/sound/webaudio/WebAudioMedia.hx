@@ -9,7 +9,7 @@ import js.html.audio.AudioBuffer;
  */
 
 import js.html.audio.AudioBufferSourceNode;
-import js.html.ArrayBuffer;
+import js.lib.ArrayBuffer;
 import pixi.sound.interfaces.IMedia;
 import pixi.sound.filters.Filter;
 import pixi.sound.Sound;
